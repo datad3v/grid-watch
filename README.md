@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # Grid Watch
 
 **Can one architect with free, public data predict when the Texas power grid will be stressed, a day ahead?**
@@ -37,4 +37,3 @@ Python · Snowflake · DuckDB · dbt · Terraform · Docker · GitHub Actions ·
 
 **Mauricio Guzman**, Solutions Architect
 [Portfolio](https://datad3v.github.io/myPortfolio) · [LinkedIn](https://www.linkedin.com/in/mauricio-guzman-profile)
-EOF
